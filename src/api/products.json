@@ -1,0 +1,10 @@
+[
+  {"id":1,"title":"Wireless Headphones","price":59.99,"rating":4.5,"image":"https://picsum.photos/id/180/600/400","description":"Comfortable wireless headphones with long battery life."},
+  {"id":2,"title":"Smartphone Stand","price":12.5,"rating":4.2,"image":"https://picsum.photos/id/1015/600/400","description":"Adjustable stand for phones and tablets."},
+  {"id":3,"title":"Portable Charger 10000mAh","price":24.99,"rating":4.6,"image":"https://picsum.photos/id/1060/600/400","description":"Small form-factor power bank for travel."},
+  {"id":4,"title":"Mechanical Keyboard","price":89.0,"rating":4.7,"image":"https://picsum.photos/id/1080/600/400","description":"Tactile mechanical keyboard with RGB lighting."},
+  {"id":5,"title":"Fitness Tracker","price":39.5,"rating":4.1,"image":"https://picsum.photos/id/1027/600/400","description":"Track your steps, heart rate, and sleep."},
+  {"id":6,"title":"Coffee Mug - Ceramic","price":9.99,"rating":4.3,"image":"https://picsum.photos/id/237/600/400","description":"Classic ceramic mug, dishwasher safe."},
+  {"id":7,"title":"Bluetooth Speaker","price":45.0,"rating":4.4,"image":"https://picsum.photos/id/250/600/400","description":"Compact speaker with deep bass."},
+  {"id":8,"title":"Laptop Sleeve 13 inch","price":18.0,"rating":4.0,"image":"https://picsum.photos/id/1062/600/400","description":"Protective sleeve with soft interior."}
+]

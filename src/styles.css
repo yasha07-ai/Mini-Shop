@@ -1,0 +1,9 @@
+:root{--card-shadow: 0 6px 20px rgba(0,0,0,.06)}
+body{background:#f8f9fb}
+.product-card{box-shadow:var(--card-shadow);transition:transform .14s ease}
+.product-card:hover{transform:translateY(-6px)}
+.product-image{height:180px;object-fit:cover;width:100%}
+.price{font-weight:700}
+.strike{color:#888;text-decoration:line-through;font-weight:400}
+.rating{color:#f6b01e}
+.qty-input{width:70px}
