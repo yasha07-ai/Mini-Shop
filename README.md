@@ -31,7 +31,7 @@ npm run dev
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Screenshot 2026-01-30 160657.png)
 *Interactive home with search and featured products*
 
 ### Product Catalog
