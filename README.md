@@ -28,6 +28,30 @@ npm run dev
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+*Interactive home with search and featured products*
+
+### Product Catalog
+![Product Catalog](screenshots/products.png)
+*Browse all products in responsive grid layout*
+
+### Product Details
+![Product Details](screenshots/product-detail.png)
+*Detailed product information page*
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+*Cart with quantity controls and real-time totals*
+
+### Checkout
+![Checkout](screenshots/checkout.png)
+*Order form and confirmation flow*
+
+---
+
 ## Features
 
 ✅ **Interactive Home** — Search & featured products  

@@ -4,6 +4,30 @@ A modern e-commerce Single Page Application built with **React 18**, **Vite**, *
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](../screenshots/home.png)
+*Interactive home with real-time search and featured products grid*
+
+### Product Listing
+![Product Listing](../screenshots/products.png)
+*Responsive product grid with hover effects*
+
+### Product Details
+![Product Details](../screenshots/product-detail.png)
+*Complete product information with add to cart functionality*
+
+### Shopping Cart
+![Shopping Cart](../screenshots/cart.png)
+*Cart management with quantity updates and totals*
+
+### Checkout Flow
+![Checkout](../screenshots/checkout.png)
+*Demo order form with validation*
+
+---
+
 ## Features
 
 ✅ **Interactive Home** — Real-time search + featured products grid  

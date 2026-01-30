@@ -1,0 +1,16 @@
+# Git Commands to Push Screenshots
+
+# 1. Add all files (including screenshots)
+git add .
+
+# 2. Commit with descriptive message
+git commit -m "Add screenshots to README files"
+
+# 3. Push to remote repository
+git push origin main
+
+# Alternative if your default branch is 'master'
+git push origin master
+
+# Check status anytime
+git status
